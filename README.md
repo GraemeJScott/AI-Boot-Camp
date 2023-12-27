@@ -1,2 +1,2 @@
-# AI-Boot-Camp
+# AI-Bootcamp
 Repository for AI / ML related assets.
